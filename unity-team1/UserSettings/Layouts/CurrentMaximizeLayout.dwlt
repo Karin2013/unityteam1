@@ -24,7 +24,7 @@ MonoBehaviour:
   m_MinSize: {x: 503, y: 271}
   m_MaxSize: {x: 16192, y: 12117}
   vertical: 0
-  controlID: 2263
+  controlID: 5229
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -342,9 +342,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0, y: 0, z: 0}
+    m_Target: {x: 79.21983, y: 7.3410773, z: 42.347103}
     speed: 2
-    m_Value: {x: 14.159999, y: -22.22, z: 1.0440011}
+    m_Value: {x: 79.21983, y: 7.3410773, z: 42.347103}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -364,7 +364,7 @@ MonoBehaviour:
   m_Grid:
     xGrid:
       m_Fade:
-        m_Target: 1
+        m_Target: 0
         speed: 2
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
@@ -372,7 +372,7 @@ MonoBehaviour:
       m_Size: {x: 1, y: 1}
     yGrid:
       m_Fade:
-        m_Target: 0
+        m_Target: 1
         speed: 2
         m_Value: 1
       m_Color: {r: 0.5, g: 0.5, b: 0.5, a: 0.4}
@@ -390,20 +390,20 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0, y: 0.7071068, z: 0, w: 0.7071068}
+    m_Target: {x: -0.054685455, y: -0.69652796, z: -0.05338877, w: 0.71344846}
     speed: 2
-    m_Value: {x: -0.00016899646, y: 0.70702225, z: 0, w: 0.7071912}
+    m_Value: {x: -0.054685436, y: -0.6965277, z: -0.053388752, w: 0.7134482}
   m_Size:
-    m_Target: 72.42676
+    m_Target: 13.485587
     speed: 2
-    m_Value: 72.91896
+    m_Value: 13.505846
   m_Ortho:
-    m_Target: 1
+    m_Target: 0
     speed: 2
-    m_Value: 1
+    m_Value: 0
   m_CameraSettings:
-    m_Speed: 1
-    m_SpeedNormalized: 0.5
+    m_Speed: 0.9995005
+    m_SpeedNormalized: 0.4995
     m_SpeedMin: 0.001
     m_SpeedMax: 2
     m_EasingEnabled: 1
@@ -445,7 +445,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 271}
   m_MaxSize: {x: 8096, y: 12117}
   vertical: 1
-  controlID: 2264
+  controlID: 5230
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -470,7 +470,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 2265
+  controlID: 5231
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -536,7 +536,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 2c95f9ff7c8dfaff808dfaff908dfaff948dfaffe0d1feff6ae1feffcce1feff44f6ffffd0f6ffff3cf7ffff28f9ffff2cfbffff
+      m_ExpandedIDs: 201af1ff421af1ff7c1af1ff9e1af1ffa21af1ff44aff8ff2c95f9ff7c8dfaff808dfaff8c8dfaff908dfaffe0d1feff6ae1feffcce1feff44f6ffffd0f6ffff3cf7ffff28f9ffff2cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -552,7 +552,7 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 0}
+        m_ClientGUIView: {fileID: 5}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
@@ -761,23 +761,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/MobileWaterShader_EKV
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/MobileWaterShader_EKV
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/karinsong/Desktop/immersivestorytelling/unityteam1/unity-team1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 88590000
-    m_LastClickedID: 22920
-    m_ExpandedIDs: 00000000425a0000465a0000687702006c7702007c77020000ca9a3b
+    scrollPos: {x: 0, y: 280.5}
+    m_SelectedIDs: 58590000
+    m_LastClickedID: 22872
+    m_ExpandedIDs: 0000000088590000425a0000465a0000687702006c7702007c77020000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -832,7 +832,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
